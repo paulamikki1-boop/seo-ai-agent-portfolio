@@ -38,4 +38,4 @@ Claude Code (agents, skills, workflows), MCP (custom Node.js server), WordPress 
 
 ## Author
 
-Yee Ken Tai, SEO / content operations.
+Paula Mikki Evarod Tindoc, SEO / content operations.
